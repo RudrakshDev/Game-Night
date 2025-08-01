@@ -14,13 +14,6 @@ Game-Night helps users:
 
 ---
 
-## 🖼️ Screenshots
-
-| Game Night Dashboard | Create Event Form |
-|----------------------|-------------------|
-
----
-
 ## 📄 Setup Instructions
 
 ```bash
